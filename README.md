@@ -21,4 +21,5 @@ Run ```npm install``` inside root folder
 
 ### Run your app!
 npm start
+````
 server start running on http://localhost:8080/
