@@ -14,6 +14,7 @@ intsall mongodb latest version on local system or create mongodb atlas for conne
 Add `.env` file on root folder with their respective values.
 
 SERVERPORT=8080
+
 DATABASE_CONNECTION="databaseURL"
 
 ### Install Packages 
