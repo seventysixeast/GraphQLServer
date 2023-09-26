@@ -9,14 +9,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/DastanVishu/GraphQL.git"
+    "url": "git+https://github.com/seventysixeast/GraphQLServer.git"
   },
   "author": "vishal",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/DastanVishu/GraphQL/issues"
+    "url": "https://github.com/seventysixeast/GraphQLServer/issues"
   },
-  "homepage": "https://github.com/DastanVishu/GraphQL#readme",
+  "homepage": "https://github.com/seventysixeast/GraphQLServer#readme",
   "dependencies": {
     "@apollo/server": "^4.9.3",
     "body-parser": "^1.20.2",
