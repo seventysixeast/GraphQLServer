@@ -6,7 +6,7 @@ GraphQL is an open-source query language that describes how a client should requ
 ```
 git clone https://github.com/seventysixeast/GraphQLServer.git
 ````
-Install MongoDB:
+### Install MongoDB:
 install Mongodb's latest version on the local system or create a MongoDB atlas URL to connect the database and create two collections "books" and "users" and data according to the schema. 
 
 ### Collection Schema.
