@@ -6,12 +6,24 @@
 git clone https://github.com/seventysixeast/GraphQLServer.git
 ````
 Install MongoDB:
-intsall mongodb latest version on local system or create mongodb atlas for connect database and create two collection "books" and "users" and
+install Mongodb's latest version on the local system or create a MongoDB atlas URL to connect the database and create two collections "books" and "users" and data according to the schema. 
 
+### Collection Schema.
+User Schema.
+{
+    name: String,
+    age: Number,
+}
+
+books Schema.
+{
+   title: String,
+   author: String
+}
 
 ### Configuring your app
 
-Add `.env` file on root folder with their respective values.
+Add the `.env` file to the root folder with their respective values.
 
 SERVERPORT=8080
 
@@ -24,4 +36,4 @@ Run ```npm install``` inside root folder
 ```
 npm start
 ````
-server start running on http://localhost:8080/
+server will start running on http://localhost:8080/
