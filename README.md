@@ -1,4 +1,5 @@
 # GraphQLServer
+GraphQL is an open-source query language that describes how a client should request information through an API. In a broad sense, GraphQL is a syntax developers can use to ask for specific data and return that data from multiple sources. Once the client defines the structure of the data needed, the server returns data using the identical structure.
 
 
 ### Clone the repository:
